@@ -1,0 +1,14 @@
+C:\Curso Udemy\Produto\bin\Debug\net8.0\Produto.exe
+C:\Curso Udemy\Produto\bin\Debug\net8.0\Produto.deps.json
+C:\Curso Udemy\Produto\bin\Debug\net8.0\Produto.runtimeconfig.json
+C:\Curso Udemy\Produto\bin\Debug\net8.0\Produto.dll
+C:\Curso Udemy\Produto\bin\Debug\net8.0\Produto.pdb
+C:\Curso Udemy\Produto\obj\Debug\net8.0\Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Produto\obj\Debug\net8.0\Produto.AssemblyInfoInputs.cache
+C:\Curso Udemy\Produto\obj\Debug\net8.0\Produto.AssemblyInfo.cs
+C:\Curso Udemy\Produto\obj\Debug\net8.0\Produto.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Produto\obj\Debug\net8.0\Produto.dll
+C:\Curso Udemy\Produto\obj\Debug\net8.0\refint\Produto.dll
+C:\Curso Udemy\Produto\obj\Debug\net8.0\Produto.pdb
+C:\Curso Udemy\Produto\obj\Debug\net8.0\Produto.genruntimeconfig.cache
+C:\Curso Udemy\Produto\obj\Debug\net8.0\ref\Produto.dll
